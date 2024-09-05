@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\bin\Debug\net8.0\WeektwoIFStatements.exe
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\bin\Debug\net8.0\WeektwoIFStatements.deps.json
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\bin\Debug\net8.0\WeektwoIFStatements.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\bin\Debug\net8.0\WeektwoIFStatements.dll
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\bin\Debug\net8.0\WeektwoIFStatements.pdb
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\WeektwoIFStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\WeektwoIFStatements.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\WeektwoIFStatements.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\WeektwoIFStatements.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\WeektwoIFStatements.dll
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\refint\WeektwoIFStatements.dll
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\WeektwoIFStatements.pdb
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\WeektwoIFStatements.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\WeektwoIFStatements\WeektwoIFStatements\obj\Debug\net8.0\ref\WeektwoIFStatements.dll
